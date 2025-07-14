@@ -13,6 +13,4 @@
   <br/><br/>
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsan-roj-a-a01116295/)
   <br/><br/>
-
-
-
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_.alsxn/)
