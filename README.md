@@ -25,4 +25,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_.alsxn/)
 
 ### I code in
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>  <img width=50 height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"/>  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000"/>
+- #### Frontend
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/> &nbsp;&nbsp; <img width=50 height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/>
+- #### Backend
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src=""/> &nbsp;&nbsp;
+
