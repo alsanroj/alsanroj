@@ -14,3 +14,6 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsan-roj-a-a01116295/)
   <br/><br/>
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_.alsxn/)
+
+### I code in
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>  <img width=50 height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"/>  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000"/>
