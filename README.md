@@ -11,7 +11,7 @@
   </p> 
 - Social Precence
   <br/><br/>
-  [![LINKEDIN](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsan-roj-a-a01116295/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsan-roj-a-a01116295/)
   <br/><br/>
 
 
