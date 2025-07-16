@@ -28,9 +28,18 @@
 - #### Frontend
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/> &nbsp;&nbsp; <img width=50 height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/>
 - #### Backend
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000"/> 
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000"/> 
 - #### Languages
   <img width="50" height="50" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000"/> &nbsp;&nbsp;
 
 ### IDE and Tools I Use
   <img width="50" height="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF"/> &nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000"/> &nbsp;&nbsp;  
+
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Asus-Vivobook-0066CC?style=for-the-badge&logo=asus&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-UHD_Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/alsanroj?theme=dark&font=Khmer&ext=contest)](https://leetcode.com/u/alsanroj/)
+
+![Alsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsanroj&theme=dark&show_icons=true&hide=issues,contribs) [![Alsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsanroj&bg_color=000000&color=ffffff&line=22b957&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
